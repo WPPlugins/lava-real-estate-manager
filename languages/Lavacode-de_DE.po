@@ -1,0 +1,596 @@
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Lava real estate manager\n"
+"POT-Creation-Date: 2015-07-14 13:24+0900\n"
+"PO-Revision-Date: 2015-07-29 17:13+0900\n"
+"Last-Translator: Gustavo <teneriffa.hauskauf@gmail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/lava-real-estate-manager/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/admin-index.php:1 includes/class-admin.php:423
+msgid "Lava Real Estate Manager Settings"
+msgstr "Lava Real Estate Manager Einstellungen"
+
+#: includes/admin/admin-index.php:7
+msgid "Page Settings"
+msgstr "Seiten Einstellungen"
+
+#: includes/admin/admin-index.php:13
+msgid "Add Property"
+msgstr "Immobilie hinzufügen"
+
+#: includes/admin/admin-index.php:16 includes/admin/admin-index.php:27
+msgid "Select a Page"
+msgstr "Seite auswählen"
+
+#: includes/admin/admin-index.php:24
+msgid "My Page"
+msgstr "Meine Seite"
+
+#: includes/admin/admin-index.php:35
+msgid "Login Page"
+msgstr "Login Seite"
+
+#: includes/admin/admin-index.php:39
+msgid "Wordpress Login Page"
+msgstr "Wordpress Login Seite"
+
+#: includes/admin/admin-index.php:40
+msgid "Custom Login Page"
+msgstr "Eigene Login Seite"
+
+#: includes/admin/admin-index.php:53
+msgid "Add item Settings"
+msgstr "Eintragseinstellung hinzufügen"
+
+#: includes/admin/admin-index.php:59
+msgid "New Property Status"
+msgstr "Neuer Immobilien Status"
+
+#: includes/admin/admin-index.php:68
+msgid "Publish"
+msgstr "Veröffentlicht"
+
+#: includes/admin/admin-index.php:77
+msgid "Pending"
+msgstr "Anstehend"
+
+#: includes/admin/admin-index.php:84
+msgid "Post new listing permit"
+msgstr "Post new listing permit"
+
+#: includes/admin/admin-index.php:88
+msgid "Anyone without login (it will generate an account automatically)"
+msgstr "Jeder ohne Login (Account wird automatisch erstellt)"
+
+#: includes/admin/admin-index.php:93
+msgid "Only login members"
+msgstr "Nur eingeloggte Mitglieder"
+
+#: includes/admin/admin-index.php:103
+msgid "Map Settings"
+msgstr "Karten Einstellungen"
+
+#: includes/admin/admin-index.php:109
+msgid "Data Refresh"
+msgstr "Daten Aktualisierung"
+
+#: includes/admin/admin-index.php:125
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: includes/admin/admin-index.php:130
+msgid "Processing"
+msgstr "Verarbeitung"
+
+#: includes/admin/admin-index.php:131
+msgid "JSON Generator"
+msgstr "JSON Generator"
+
+#: includes/admin/admin-index.php:143
+msgid "Single Page Settings"
+msgstr "Einzelseite Einstellung"
+
+#: includes/admin/admin-index.php:149
+msgid "Amenities display type"
+msgstr "Ausstattungs Anzeige Typ"
+
+#: includes/admin/admin-index.php:153
+msgid "List only selected"
+msgstr "Zeige nur ausgewählte"
+
+#: includes/admin/admin-index.php:158
+msgid "List all (unselected & selected)"
+msgstr "Zeige alle (nicht- & ausgewählte)"
+
+#: includes/admin/admin-index.php:168
+msgid "General Settings"
+msgstr "Grundeinstellungen"
+
+#: includes/admin/admin-index.php:174
+msgid "Blank Image"
+msgstr "Leeres Bild"
+
+#: includes/admin/admin-index.php:177
+msgid "Select an Image"
+msgstr "Wähle ein Bild"
+
+#: includes/admin/admin-index.php:178 includes/admin/admin-metabox.php:74
+#: templates/form/lava-add-item-file.php:5
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/admin/admin-index.php:181
+msgid "Preview"
+msgstr "Vorschau"
+
+#: includes/admin/admin-index.php:197 includes/functions-core.php:191
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/admin/admin-metabox.php:4
+msgid "Featured Item"
+msgstr "Hervorgehobener Eintrag"
+
+#: includes/admin/admin-metabox.php:28
+msgid "Address on map"
+msgstr "Adresse auf Karte"
+
+#: includes/admin/admin-metabox.php:30 templates/form/lava-add-item-location.php:7
+msgid "Find"
+msgstr "Finden"
+
+#: includes/admin/admin-metabox.php:39 templates/content.php:86
+#: templates/form/lava-add-item-location.php:34
+msgid "StreetView"
+msgstr "StreetView"
+
+#: includes/admin/admin-metabox.php:44
+msgid "Use StreetView"
+msgstr "Verwende StreetView"
+
+#: includes/admin/admin-metabox.php:59
+msgid "Description Images"
+msgstr "Bildbeschreibungen"
+
+#: includes/admin/admin-metabox.php:62
+msgid "Add Images"
+msgstr "Bilder hinzufügen"
+
+#: includes/class-admin.php:48
+msgid "Property Additional Meta"
+msgstr "Eintrag Zusatzinfos (Meta)"
+
+#: includes/class-admin.php:57
+msgid "Map settings"
+msgstr "Karten Einstellungen"
+
+#: includes/class-admin.php:104 includes/class-shortcodes.php:162 includes/class-submit.php:227
+msgid "You are not the author."
+msgstr "Sie sind nicht der Author"
+
+#: includes/class-admin.php:424
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-admin.php:706
+msgid "Successfully Generated!"
+msgstr "Erfolgreich generiert!"
+
+#: includes/class-core.php:43
+#, php-format
+msgid "%s is invalid taxonomy name."
+msgstr "%s ist ein ungültiger Taxonomie Name"
+
+#: includes/class-core.php:109 templates/content.php:55
+msgid "Bedrooms"
+msgstr "Schlafzimmer"
+
+#: includes/class-core.php:115 templates/content.php:56
+msgid "Bathrooms"
+msgstr "Badezimmer"
+
+#: includes/class-core.php:121 templates/content.php:57
+msgid "Garages"
+msgstr "Garagen"
+
+#: includes/class-core.php:127 templates/content.php:64 templates/template-listing-list.php:31
+msgid "Price"
+msgstr "Preis"
+
+#: includes/class-core.php:133
+msgid "Currency"
+msgstr "Währung"
+
+#: includes/class-core.php:139 templates/content.php:69
+msgid "Area"
+msgstr "Fläche"
+
+#: includes/class-core.php:145
+msgid "Unit"
+msgstr "Einheit"
+
+#: includes/class-core.php:151
+msgid "Contact Mobile"
+msgstr "Kontakt Telefon"
+
+#: includes/class-core.php:167 includes/class-core.php:169 templates/content.php:75
+#: templates/template-map.php:40 templates/template-map.php:42
+msgid "Amenities"
+msgstr "Ausstattung"
+
+#: includes/class-core.php:180 includes/class-core.php:182
+msgid "Types"
+msgstr "Art"
+
+#: includes/class-core.php:193 includes/class-core.php:195 templates/content.php:22
+#: templates/template-map.php:33
+msgid "City"
+msgstr "Stadt"
+
+#: includes/class-core.php:206 includes/class-core.php:208 templates/content.php:29
+#: templates/template-dashboard.php:40 templates/template-map.php:22 templates/template-map.php:24
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-core.php:241 includes/class-core.php:243 includes/class-core.php:245
+msgid "Properties"
+msgstr "Immobilien"
+
+#: includes/class-core.php:244 includes/class-core.php:246 includes/widgets/widget-featureds.php:114
+#: includes/widgets/widget-recents.php:118
+msgid "Property"
+msgstr "Immobilie"
+
+#: includes/class-core.php:247
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: includes/class-core.php:248
+msgid "Add New Property"
+msgstr "Neue Immobilie hinzufügen"
+
+#: includes/class-core.php:249
+msgid "New Property"
+msgstr "Neue Immobilie"
+
+#: includes/class-core.php:250
+msgid "Edit Property"
+msgstr "Immobilie bearbeiten"
+
+#: includes/class-core.php:251
+msgid "View Property"
+msgstr "Immobilie ansehen"
+
+#: includes/class-core.php:252
+msgid "All Properties"
+msgstr "Alle Immobilien"
+
+#: includes/class-core.php:253
+msgid "Search Properties"
+msgstr "Suche Immobilien"
+
+#: includes/class-core.php:254
+msgid "Parent Properties:"
+msgstr "Verwandte Immobilien:"
+
+#: includes/class-core.php:255
+msgid "Not found Properties."
+msgstr "Immobilien nicht gefunden."
+
+#: includes/class-core.php:256
+msgid "Not found properties in trash."
+msgstr "Immobilien nicht gefunden im Papierkorb."
+
+#: includes/class-shortcodes.php:147
+msgid "Please login"
+msgstr "Bitte einloggen"
+
+#: includes/class-shortcodes.php:158
+msgid "Invaild Post ID."
+msgstr "Ungültige Eintrag ID."
+
+#: includes/class-submit.php:47 templates/template-dashboard.php:61
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/class-submit.php:110
+msgid "Invaild User Email."
+msgstr "Ungültige Benutzer Mail."
+
+#: includes/class-submit.php:203
+msgid "Please try again, failure to submit"
+msgstr "Bitte versuchen Sie es nochmal, Login fehlgeschlagen"
+
+#: includes/class-submit.php:225
+msgid "It has been deleted"
+msgstr "Wurde gelöscht"
+
+#: includes/class-template.php:89
+msgid "Lava Map Template"
+msgstr "Lava Karten Vorlage"
+
+#: includes/class-template.php:260
+msgid "There is no location information on this property."
+msgstr "Es gibt keine Standortinformation zu diesem Objekt."
+
+#: includes/class-template.php:261
+msgid "This location is not supported by google StreetView or the location did not add."
+msgstr "Dieser Ort wird nicht von Google Street View unterstützt oder der Ort wurde nicht hinzugefügt."
+
+#: includes/class-template.php:427 templates/template-not-list.php:8
+msgid "Not found results."
+msgstr "Keine Ergebnisse gefunden."
+
+#: includes/functions-ajaxMap.php:156
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: includes/functions-core.php:190
+msgid "Submit"
+msgstr "Eintragen"
+
+#: includes/functions-core.php:372 includes/functions-core.php:385
+msgid "Not found amenities."
+msgstr "Keine Ausstattung gefunden."
+
+#: includes/widgets/html/lava-single-contact-content.php:18
+#: includes/widgets/html/widget-single-contact.php:18
+#, php-format
+msgid "%d properties"
+msgstr "%d Immobilien"
+
+#: includes/widgets/widget-featureds.php:9
+msgid "[Lava] Featured Properties Widget"
+msgstr "[Lava] Empfohlene Immobilien Widget"
+
+#: includes/widgets/widget-featureds.php:10
+msgid "This widget shows a list of featured properties as box style."
+msgstr "Dieses Widget zeigt eine Liste der empfohlenen Immobilien im Box-Stil."
+
+#: includes/widgets/widget-featureds.php:22
+msgid "Featured"
+msgstr "Herrvorgehoben"
+
+#: includes/widgets/widget-featureds.php:84 includes/widgets/widget-recents.php:85
+msgid "Not Found Posts."
+msgstr "Keine Einträge gefunden."
+
+#: includes/widgets/widget-featureds.php:106 includes/widgets/widget-recents.php:109
+#: templates/template-addItem.php:25 templates/template-dashboard.php:38
+msgid "Title"
+msgstr "Titel"
+
+#: includes/widgets/widget-featureds.php:110 includes/widgets/widget-recents.php:114
+msgid "Post type"
+msgstr "Eintragsart"
+
+#: includes/widgets/widget-featureds.php:115 includes/widgets/widget-recents.php:119
+msgid "Post"
+msgstr "Eintrag"
+
+#: includes/widgets/widget-featureds.php:120 includes/widgets/widget-recents.php:125
+msgid "count"
+msgstr "zählen"
+
+#: includes/widgets/widget-recents.php:9
+msgid "[Lava] Realestate Recents Widget"
+msgstr "[Lava] Die letzten Immobilien Widget"
+
+#: includes/widgets/widget-recents.php:10
+msgid "This widget shows the list of the property which is uploaded recently"
+msgstr "Dieses Widget zeigt die Liste der Immobilien, die kürzlich hochgeladen wurden"
+
+#: includes/widgets/widget-recents.php:23
+msgid "Recent Posts"
+msgstr "Die letzten Einträge"
+
+#: includes/widgets/widget-single-contact.php:9
+msgid "[Lava] Author information"
+msgstr "[Lava] Autor Information"
+
+#: includes/widgets/widget-single-contact.php:10
+msgid ""
+"This is for only single detail pages. This widget shows the requested information about the author of "
+"the property."
+msgstr "Dies ist nur für Detailseiten. Dieses Widget zeigt die Informationen über den Autor der Immobilie."
+
+#: includes/widgets/widget-single-contact.php:26
+msgid "Invalid post ID."
+msgstr "Ungültige Eintrags ID."
+
+#: includes/widgets/widget-single-contact.php:65
+msgid "Form Type"
+msgstr "Formulartyp"
+
+#: includes/widgets/widget-single-contact.php:69 includes/widgets/widget-single-contact.php:88
+msgid "None"
+msgstr "Keine"
+
+#: includes/widgets/widget-single-contact.php:70 includes/widgets/widget-single-contact.php:89
+msgid "Ninja Form"
+msgstr "Ninja Form"
+
+#: includes/widgets/widget-single-contact.php:71 includes/widgets/widget-single-contact.php:90
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: includes/widgets/widget-single-contact.php:77
+msgid "Form ID"
+msgstr "Formular ID"
+
+#: includes/widgets/widget-single-contact.php:84
+msgid "Report Type"
+msgstr "Berichtsart"
+
+#: includes/widgets/widget-single-contact.php:96
+msgid "Report ID"
+msgstr "Bericht ID"
+
+#: templates/content.php:7
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: templates/content.php:17 templates/template-map.php:15 templates/template-map.php:17
+msgid "Type"
+msgstr "Typ"
+
+#: templates/content.php:51
+msgid "Condition"
+msgstr "Vorgaben"
+
+#: templates/content.php:79 templates/template-addItem.php:30
+msgid "Description"
+msgstr "Beschreibung"
+
+#: templates/content.php:83 templates/template-listing.php:10
+msgid "Location"
+msgstr "Ort"
+
+#: templates/form/lava-add-item-file.php:10
+msgid "Featured Image"
+msgstr "Ausgewähltes Bild"
+
+#: templates/form/lava-add-item-file.php:17
+msgid "Detail Image"
+msgstr "Detail Bild"
+
+#: templates/form/lava-add-item-location.php:1
+msgid "Map"
+msgstr "Karte"
+
+#: templates/form/lava-add-item-location.php:4
+msgid "Address Search"
+msgstr "Address-Suche"
+
+#: templates/form/lava-add-item-location.php:6
+msgid "Address"
+msgstr "Addresse"
+
+#: templates/form/lava-add-item-location.php:17 templates/form/lava-add-item-location.php:37
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: templates/form/lava-add-item-location.php:22 templates/form/lava-add-item-location.php:42
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: templates/form/lava-add-item-location.php:27
+msgid "Used StreetView"
+msgstr "Verwendetes Street View"
+
+#: templates/form/lava-add-item-location.php:47
+msgid "Heading"
+msgstr "Überschrift"
+
+#: templates/form/lava-add-item-location.php:52
+msgid "Pitch"
+msgstr "Feld"
+
+#: templates/form/lava-add-item-location.php:57
+msgid "Zoom"
+msgstr "Zoom"
+
+#: templates/form/lava-add-item-user.php:3
+msgid "Login"
+msgstr "Login"
+
+#: templates/form/lava-add-item-user.php:4
+msgid "If you have an account?"
+msgstr "Haben Sie einen Account?"
+
+#: templates/form/lava-add-item-user.php:5
+msgid "Please Login"
+msgstr "Bitte einloggen"
+
+#: templates/form/lava-add-item-user.php:9
+msgid "User Email"
+msgstr "Benutzer Email"
+
+#: templates/form/lava-add-item-user.php:10
+msgid "Email Address"
+msgstr "Email Addresse"
+
+#: templates/template-addItem.php:31
+msgid "Write a description"
+msgstr "Schreiben Sie eine Beschreibung"
+
+#: templates/template-addItem.php:49
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: templates/template-dashboard.php:33
+msgid "My Realestate"
+msgstr "Meine Immobilien"
+
+#: templates/template-dashboard.php:39
+msgid "Posted date"
+msgstr "Veröffentlichungsdatum"
+
+#: templates/template-dashboard.php:64
+msgid "Remove"
+msgstr "Entfernen"
+
+#: templates/template-dashboard.php:101
+msgid "Do you want to delete this item?"
+msgstr "Möchten Sie diesen Artikel löschen?"
+
+#: templates/template-listing-list.php:24
+msgid "Bed"
+msgstr "Bett"
+
+#: templates/template-listing-list.php:25
+msgid "Bath"
+msgstr "Bad"
+
+#: templates/template-listing-list.php:26
+msgid "Garage"
+msgstr "Garage"
+
+#: templates/template-listing.php:5
+msgid "Keywords"
+msgstr "Schlüsselwörter"
+
+#: templates/template-listing.php:13
+msgid "Any Location"
+msgstr "Alle Orte"
+
+#: templates/template-listing.php:22
+msgid "Any Category"
+msgstr "Alle Kategorien"
+
+#: templates/template-listing.php:46
+msgid "Search"
+msgstr "Suchen"
+
+#: templates/template-map.php:35
+msgid "Location (city)"
+msgstr "Ort (Stadt)"
+
+#: templates/template-map.php:49 templates/template-map.php:50
+msgid "Keyword"
+msgstr "Schlüsselwort"
+
+#: templates/template-map.php:52
+msgid "Search Now"
+msgstr "Jetzt suchen"
+
+#: templates/template-map.php:59
+msgid "Listings"
+msgstr "Einträge"
+
+#: templates/template-map.php:60
+msgid "Loading"
+msgstr "Laden"

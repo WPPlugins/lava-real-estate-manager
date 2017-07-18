@@ -1,0 +1,619 @@
+#
+# Translators:
+# Jered <luckyvan00@gmail.com>, 2015
+# Lava Code <wp.lava.code@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Lava real estate manager\n"
+"POT-Creation-Date: 2015-07-14 13:24+0900\n"
+"PO-Revision-Date: 2015-07-29 17:13+0900\n"
+"Last-Translator: Jered <luckyvan00@gmail.com>\n"
+"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/lava-"
+"real-estate-manager/language/ko_KR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/admin-index.php:1 includes/class-admin.php:423
+msgid "Lava Real Estate Manager Settings"
+msgstr "라바 부동산 매니져 설정"
+
+#: includes/admin/admin-index.php:7
+msgid "Page Settings"
+msgstr "페이지 설정"
+
+#: includes/admin/admin-index.php:13
+msgid "Add Property"
+msgstr "매물 등록"
+
+#: includes/admin/admin-index.php:16 includes/admin/admin-index.php:27
+msgid "Select a Page"
+msgstr "페이지 선택"
+
+#: includes/admin/admin-index.php:24
+msgid "My Page"
+msgstr "마이페이지"
+
+#: includes/admin/admin-index.php:35
+msgid "Login Page"
+msgstr "로그인 페이지"
+
+#: includes/admin/admin-index.php:39
+msgid "Wordpress Login Page"
+msgstr "워드프레스 로그인 페이지"
+
+#: includes/admin/admin-index.php:40
+msgid "Custom Login Page"
+msgstr "커스텀 로그인 페이지"
+
+#: includes/admin/admin-index.php:53
+msgid "Add item Settings"
+msgstr "아이템 추가 설정"
+
+#: includes/admin/admin-index.php:59
+msgid "New Property Status"
+msgstr "새 매물 상태"
+
+#: includes/admin/admin-index.php:68
+msgid "Publish"
+msgstr "게시하기"
+
+#: includes/admin/admin-index.php:77
+msgid "Pending"
+msgstr "승인대기"
+
+#: includes/admin/admin-index.php:84
+msgid "Post new listing permit"
+msgstr "새글 등록 허용 설정"
+
+#: includes/admin/admin-index.php:88
+msgid "Anyone without login (it will generate an account automatically)"
+msgstr "로그인없이 등록 (자동 계정 생성)"
+
+#: includes/admin/admin-index.php:93
+msgid "Only login members"
+msgstr "오직 로그인한 멤버만 허용"
+
+#: includes/admin/admin-index.php:103
+msgid "Map Settings"
+msgstr "맵 설정"
+
+#: includes/admin/admin-index.php:109
+msgid "Data Refresh"
+msgstr "데이타 업데이트"
+
+#: includes/admin/admin-index.php:125
+msgid "Refresh"
+msgstr "업데이트"
+
+#: includes/admin/admin-index.php:130
+msgid "Processing"
+msgstr "과정"
+
+#: includes/admin/admin-index.php:131
+msgid "JSON Generator"
+msgstr "JSON 생성기"
+
+#: includes/admin/admin-index.php:143
+msgid "Single Page Settings"
+msgstr "상세페이지 설정"
+
+#: includes/admin/admin-index.php:149
+msgid "Amenities display type"
+msgstr "주변시설 표시 타입"
+
+#: includes/admin/admin-index.php:153
+msgid "List only selected"
+msgstr "선택된것만 거재"
+
+#: includes/admin/admin-index.php:158
+msgid "List all (unselected & selected)"
+msgstr "전체 거재 (미선택 & 선택)"
+
+#: includes/admin/admin-index.php:168
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: includes/admin/admin-index.php:174
+msgid "Blank Image"
+msgstr "빈 이미지"
+
+#: includes/admin/admin-index.php:177
+msgid "Select an Image"
+msgstr "이미지 선택"
+
+#: includes/admin/admin-index.php:178 includes/admin/admin-metabox.php:74
+#: templates/form/lava-add-item-file.php:5
+msgid "Delete"
+msgstr "삭제"
+
+#: includes/admin/admin-index.php:181
+msgid "Preview"
+msgstr "미리 보기"
+
+#: includes/admin/admin-index.php:197 includes/functions-core.php:191
+msgid "Save"
+msgstr "저장"
+
+#: includes/admin/admin-metabox.php:4
+msgid "Featured Item"
+msgstr "대표 상품"
+
+#: includes/admin/admin-metabox.php:28
+msgid "Address on map"
+msgstr "맵 위의 주소"
+
+#: includes/admin/admin-metabox.php:30
+#: templates/form/lava-add-item-location.php:7
+msgid "Find"
+msgstr "찾다"
+
+#: includes/admin/admin-metabox.php:39 templates/content.php:86
+#: templates/form/lava-add-item-location.php:34
+msgid "StreetView"
+msgstr "스트리트뷰"
+
+#: includes/admin/admin-metabox.php:44
+msgid "Use StreetView"
+msgstr "스트리트뷰 사용"
+
+#: includes/admin/admin-metabox.php:59
+msgid "Description Images"
+msgstr "이미지 설명"
+
+#: includes/admin/admin-metabox.php:62
+msgid "Add Images"
+msgstr "이미지 추가"
+
+#: includes/class-admin.php:48
+msgid "Property Additional Meta"
+msgstr "매물 추가정보"
+
+#: includes/class-admin.php:57
+msgid "Map settings"
+msgstr "지도 설정"
+
+#: includes/class-admin.php:104 includes/class-shortcodes.php:162
+#: includes/class-submit.php:227
+msgid "You are not the author."
+msgstr "회원님은 현재 글의 작성자가 아닙니다."
+
+#: includes/class-admin.php:424
+msgid "Settings"
+msgstr "설정"
+
+#: includes/class-admin.php:706
+msgid "Successfully Generated!"
+msgstr "생성 성공!"
+
+#: includes/class-core.php:43
+#, php-format
+msgid "%s is invalid taxonomy name."
+msgstr "%s는 인식할 수 없는 이름입니다."
+
+#: includes/class-core.php:109 templates/content.php:55
+msgid "Bedrooms"
+msgstr "침실들"
+
+#: includes/class-core.php:115 templates/content.php:56
+msgid "Bathrooms"
+msgstr "욕실들"
+
+#: includes/class-core.php:121 templates/content.php:57
+msgid "Garages"
+msgstr "차고"
+
+#: includes/class-core.php:127 templates/content.php:64
+#: templates/template-listing-list.php:31
+msgid "Price"
+msgstr "가격"
+
+#: includes/class-core.php:133
+msgid "Currency"
+msgstr "통화단위"
+
+#: includes/class-core.php:139 templates/content.php:69
+msgid "Area"
+msgstr "면적"
+
+#: includes/class-core.php:145
+msgid "Unit"
+msgstr "단위"
+
+#: includes/class-core.php:151
+msgid "Contact Mobile"
+msgstr "연락처 (휴대폰)"
+
+#: includes/class-core.php:167 includes/class-core.php:169
+#: templates/content.php:75 templates/template-map.php:40
+#: templates/template-map.php:42
+msgid "Amenities"
+msgstr "편의시설"
+
+#: includes/class-core.php:180 includes/class-core.php:182
+msgid "Types"
+msgstr "종류"
+
+#: includes/class-core.php:193 includes/class-core.php:195
+#: templates/content.php:22 templates/template-map.php:33
+msgid "City"
+msgstr "도시"
+
+#: includes/class-core.php:206 includes/class-core.php:208
+#: templates/content.php:29 templates/template-dashboard.php:40
+#: templates/template-map.php:22 templates/template-map.php:24
+msgid "Status"
+msgstr "상태"
+
+#: includes/class-core.php:241 includes/class-core.php:243
+#: includes/class-core.php:245
+msgid "Properties"
+msgstr "매물들"
+
+#: includes/class-core.php:244 includes/class-core.php:246
+#: includes/widgets/widget-featureds.php:114
+#: includes/widgets/widget-recents.php:118
+msgid "Property"
+msgstr "매물"
+
+#: includes/class-core.php:247
+msgid "Add New"
+msgstr "새로 추가하기"
+
+#: includes/class-core.php:248
+msgid "Add New Property"
+msgstr "매물 등록"
+
+#: includes/class-core.php:249
+msgid "New Property"
+msgstr "새 매물"
+
+#: includes/class-core.php:250
+msgid "Edit Property"
+msgstr "매물 편집"
+
+#: includes/class-core.php:251
+msgid "View Property"
+msgstr "매물 보기"
+
+#: includes/class-core.php:252
+msgid "All Properties"
+msgstr "모든 매물들"
+
+#: includes/class-core.php:253
+msgid "Search Properties"
+msgstr "매물 찾기"
+
+#: includes/class-core.php:254
+msgid "Parent Properties:"
+msgstr "상위 부동산 매물"
+
+#: includes/class-core.php:255
+msgid "Not found Properties."
+msgstr "매물을 찾지 못했습니다."
+
+#: includes/class-core.php:256
+msgid "Not found properties in trash."
+msgstr "휴지통에 매물을 찾을 수 없습니다"
+
+#: includes/class-shortcodes.php:147
+msgid "Please login"
+msgstr "로그인해주세요."
+
+#: includes/class-shortcodes.php:158
+msgid "Invaild Post ID."
+msgstr "잘못된 포스트 ID 입니다."
+
+#: includes/class-submit.php:47 templates/template-dashboard.php:61
+msgid "Edit"
+msgstr "수정"
+
+#: includes/class-submit.php:110
+msgid "Invaild User Email."
+msgstr "사용자 이메일을 인식할 수 없습니다"
+
+#: includes/class-submit.php:203
+msgid "Please try again, failure to submit"
+msgstr "등록실패. 다시 시도 해보세요."
+
+#: includes/class-submit.php:225
+msgid "It has been deleted"
+msgstr "삭제되었습니다."
+
+#: includes/class-template.php:89
+msgid "Lava Map Template"
+msgstr "Lava 지도 템플릿"
+
+#: includes/class-template.php:260
+msgid "There is no location information on this property."
+msgstr "매물의 위치정보를 찾을 수 없습니다."
+
+#: includes/class-template.php:261
+msgid ""
+"This location is not supported by google StreetView or the location did not "
+"add."
+msgstr "이 위치는 구글지도가 지원하지 않습니다"
+
+#: includes/class-template.php:427 templates/template-not-list.php:8
+msgid "Not found results."
+msgstr "결과를 찾을 수 없습니다."
+
+#: includes/functions-ajaxMap.php:156
+#, php-format
+msgid "%s ago"
+msgstr "%s 이전"
+
+#: includes/functions-core.php:190
+msgid "Submit"
+msgstr "승인"
+
+#: includes/functions-core.php:372 includes/functions-core.php:385
+msgid "Not found amenities."
+msgstr "편의시설 형태를 선택하지 않습니다."
+
+#: includes/widgets/html/lava-single-contact-content.php:18
+#: includes/widgets/html/widget-single-contact.php:18
+#, php-format
+msgid "%d properties"
+msgstr "%d 매물"
+
+#: includes/widgets/widget-featureds.php:9
+msgid "[Lava] Featured Properties Widget"
+msgstr "[라바] 대표 매물 목록 위젯"
+
+#: includes/widgets/widget-featureds.php:10
+msgid "This widget shows a list of featured properties as box style."
+msgstr "이 위젯은 대표 매물들만 박스 형태로 보여줍니다."
+
+#: includes/widgets/widget-featureds.php:22
+msgid "Featured"
+msgstr "인기상품"
+
+#: includes/widgets/widget-featureds.php:84
+#: includes/widgets/widget-recents.php:85
+msgid "Not Found Posts."
+msgstr "글을 찾지 못했습니다."
+
+#: includes/widgets/widget-featureds.php:106
+#: includes/widgets/widget-recents.php:109 templates/template-addItem.php:25
+#: templates/template-dashboard.php:38
+msgid "Title"
+msgstr "제목"
+
+#: includes/widgets/widget-featureds.php:110
+#: includes/widgets/widget-recents.php:114
+msgid "Post type"
+msgstr "작성글 형태"
+
+#: includes/widgets/widget-featureds.php:115
+#: includes/widgets/widget-recents.php:119
+msgid "Post"
+msgstr "작성글"
+
+#: includes/widgets/widget-featureds.php:120
+#: includes/widgets/widget-recents.php:125
+msgid "count"
+msgstr "가격"
+
+#: includes/widgets/widget-recents.php:9
+msgid "[Lava] Realestate Recents Widget"
+msgstr "[Lava]부동산 최근 위젯"
+
+#: includes/widgets/widget-recents.php:10
+msgid "This widget shows the list of the property which is uploaded recently"
+msgstr "이 위젯은 최근 매물 목록을 보여줍니다."
+
+#: includes/widgets/widget-recents.php:23
+msgid "Recent Posts"
+msgstr "최근 글"
+
+#: includes/widgets/widget-single-contact.php:9
+msgid "[Lava] Author information"
+msgstr "[라바] 작성자 정보"
+
+#: includes/widgets/widget-single-contact.php:10
+msgid ""
+"This is for only single detail pages. This widget shows the requested "
+"information about the author of the property."
+msgstr "상세페이지에만 사용가능합니다. 이 위젯은 작성자의 정보를 보여줍니다."
+
+#: includes/widgets/widget-single-contact.php:26
+msgid "Invalid post ID."
+msgstr "작성글 ID를 인식할 수 없습니다."
+
+#: includes/widgets/widget-single-contact.php:65
+msgid "Form Type"
+msgstr "작성폼 형태"
+
+#: includes/widgets/widget-single-contact.php:69
+#: includes/widgets/widget-single-contact.php:88
+msgid "None"
+msgstr "없음"
+
+#: includes/widgets/widget-single-contact.php:70
+#: includes/widgets/widget-single-contact.php:89
+msgid "Ninja Form"
+msgstr "Ninja Form"
+
+#: includes/widgets/widget-single-contact.php:71
+#: includes/widgets/widget-single-contact.php:90
+msgid "Contact Form"
+msgstr "문의양식"
+
+#: includes/widgets/widget-single-contact.php:77
+msgid "Form ID"
+msgstr "작성폼 ID"
+
+#: includes/widgets/widget-single-contact.php:84
+msgid "Report Type"
+msgstr "보고 형태"
+
+#: includes/widgets/widget-single-contact.php:96
+msgid "Report ID"
+msgstr "보고 ID"
+
+#: templates/content.php:7
+msgid "Summary"
+msgstr "요약"
+
+#: templates/content.php:17 templates/template-map.php:15
+#: templates/template-map.php:17
+msgid "Type"
+msgstr "종류"
+
+#: templates/content.php:51
+msgid "Condition"
+msgstr "상태"
+
+#: templates/content.php:79 templates/template-addItem.php:30
+msgid "Description"
+msgstr "설명"
+
+#: templates/content.php:83 templates/template-listing.php:10
+msgid "Location"
+msgstr "위치"
+
+#: templates/form/lava-add-item-file.php:10
+msgid "Featured Image"
+msgstr "대표 이미지"
+
+#: templates/form/lava-add-item-file.php:17
+msgid "Detail Image"
+msgstr "상세 이미지"
+
+#: templates/form/lava-add-item-location.php:1
+msgid "Map"
+msgstr "지도"
+
+#: templates/form/lava-add-item-location.php:4
+msgid "Address Search"
+msgstr "주소 찾기"
+
+#: templates/form/lava-add-item-location.php:6
+msgid "Address"
+msgstr "주소"
+
+#: templates/form/lava-add-item-location.php:17
+#: templates/form/lava-add-item-location.php:37
+msgid "Latitude"
+msgstr "위도"
+
+#: templates/form/lava-add-item-location.php:22
+#: templates/form/lava-add-item-location.php:42
+msgid "Longitude"
+msgstr "경도"
+
+#: templates/form/lava-add-item-location.php:27
+msgid "Used StreetView"
+msgstr "스트리트뷰 사용"
+
+#: templates/form/lava-add-item-location.php:47
+msgid "Heading"
+msgstr "제목"
+
+#: templates/form/lava-add-item-location.php:52
+msgid "Pitch"
+msgstr "간격"
+
+#: templates/form/lava-add-item-location.php:57
+msgid "Zoom"
+msgstr "확대"
+
+#: templates/form/lava-add-item-user.php:3
+msgid "Login"
+msgstr "로그인"
+
+#: templates/form/lava-add-item-user.php:4
+msgid "If you have an account?"
+msgstr "계정을 가지고 있습니까?"
+
+#: templates/form/lava-add-item-user.php:5
+msgid "Please Login"
+msgstr "로그인 해주세요"
+
+#: templates/form/lava-add-item-user.php:9
+msgid "User Email"
+msgstr "사용자 이메일"
+
+#: templates/form/lava-add-item-user.php:10
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: templates/template-addItem.php:31
+msgid "Write a description"
+msgstr "설명을 써주세요."
+
+#: templates/template-addItem.php:49
+msgid "Saved"
+msgstr "저장"
+
+#: templates/template-dashboard.php:33
+msgid "My Realestate"
+msgstr "내 부동산"
+
+#: templates/template-dashboard.php:39
+msgid "Posted date"
+msgstr "등록일"
+
+#: templates/template-dashboard.php:64
+msgid "Remove"
+msgstr "삭제"
+
+#: templates/template-dashboard.php:101
+msgid "Do you want to delete this item?"
+msgstr "이 아이템을 삭제하시겠습니까?"
+
+#: templates/template-listing-list.php:24
+msgid "Bed"
+msgstr "침실"
+
+#: templates/template-listing-list.php:25
+msgid "Bath"
+msgstr "욕실"
+
+#: templates/template-listing-list.php:26
+msgid "Garage"
+msgstr "차고"
+
+#: templates/template-listing.php:5
+msgid "Keywords"
+msgstr "키워드"
+
+#: templates/template-listing.php:13
+msgid "Any Location"
+msgstr "모든 위치"
+
+#: templates/template-listing.php:22
+msgid "Any Category"
+msgstr "모든 카테고리"
+
+#: templates/template-listing.php:46
+msgid "Search"
+msgstr "찾기"
+
+#: templates/template-map.php:35
+msgid "Location (city)"
+msgstr "위치 (도시)"
+
+#: templates/template-map.php:49 templates/template-map.php:50
+msgid "Keyword"
+msgstr "키워드"
+
+#: templates/template-map.php:52
+msgid "Search Now"
+msgstr "검색"
+
+#: templates/template-map.php:59
+msgid "Listings"
+msgstr "목록들"
+
+#: templates/template-map.php:60
+msgid "Loading"
+msgstr "로딩중"

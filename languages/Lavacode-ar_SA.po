@@ -1,0 +1,615 @@
+#
+# Translators:
+# FARAJ OMAR <ONFOAM@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Lava real estate manager\n"
+"POT-Creation-Date: 2015-07-14 13:24+0900\n"
+"PO-Revision-Date: 2015-07-29 17:13+0900\n"
+"Last-Translator: FARAJ OMAR <ONFOAM@gmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/lava-real-estate-"
+"manager/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/admin-index.php:1 includes/class-admin.php:423
+msgid "Lava Real Estate Manager Settings"
+msgstr "اعدادات لافا لادارت العقارات"
+
+#: includes/admin/admin-index.php:7
+msgid "Page Settings"
+msgstr "اعدادات الصفحة"
+
+#: includes/admin/admin-index.php:13
+msgid "Add Property"
+msgstr "اضافة عقار"
+
+#: includes/admin/admin-index.php:16 includes/admin/admin-index.php:27
+msgid "Select a Page"
+msgstr "اختيار صفحة"
+
+#: includes/admin/admin-index.php:24
+msgid "My Page"
+msgstr "صفحتي"
+
+#: includes/admin/admin-index.php:35
+msgid "Login Page"
+msgstr "صفحة تسجيل الدخول"
+
+#: includes/admin/admin-index.php:39
+msgid "Wordpress Login Page"
+msgstr "صحفة ووردبريس لتسجيل الدخول"
+
+#: includes/admin/admin-index.php:40
+msgid "Custom Login Page"
+msgstr "صفحة مخصصة لتسجيل الدخول"
+
+#: includes/admin/admin-index.php:53
+msgid "Add item Settings"
+msgstr "اعدادات اضافة بند"
+
+#: includes/admin/admin-index.php:59
+msgid "New Property Status"
+msgstr "حالة العقار الجديد"
+
+#: includes/admin/admin-index.php:68
+msgid "Publish"
+msgstr "نشر"
+
+#: includes/admin/admin-index.php:77
+msgid "Pending"
+msgstr "تحت المراجعة"
+
+#: includes/admin/admin-index.php:84
+msgid "Post new listing permit"
+msgstr "السماح باضافة عقارات جديدة"
+
+#: includes/admin/admin-index.php:88
+msgid "Anyone without login (it will generate an account automatically)"
+msgstr "اي مستخدم بدون تسجيل الدخول (سيتم انشاء حساب بشكل تلقائي)"
+
+#: includes/admin/admin-index.php:93
+msgid "Only login members"
+msgstr "فقط للاعضاء مسجلي الدخول"
+
+#: includes/admin/admin-index.php:103
+msgid "Map Settings"
+msgstr "اعدادات الخريطة"
+
+#: includes/admin/admin-index.php:109
+msgid "Data Refresh"
+msgstr "تحديث البيانات"
+
+#: includes/admin/admin-index.php:125
+msgid "Refresh"
+msgstr "تحديث"
+
+#: includes/admin/admin-index.php:130
+msgid "Processing"
+msgstr "تحت الاجراء"
+
+#: includes/admin/admin-index.php:131
+msgid "JSON Generator"
+msgstr "مولد جي سون"
+
+#: includes/admin/admin-index.php:143
+msgid "Single Page Settings"
+msgstr "اعدادات صفحة مفردة"
+
+#: includes/admin/admin-index.php:149
+msgid "Amenities display type"
+msgstr "طريقة عرض الكماليات"
+
+#: includes/admin/admin-index.php:153
+msgid "List only selected"
+msgstr "نشر المختارة فقط"
+
+#: includes/admin/admin-index.php:158
+msgid "List all (unselected & selected)"
+msgstr "نشر الكل (المختارة والغير مختارة)"
+
+#: includes/admin/admin-index.php:168
+msgid "General Settings"
+msgstr "اعدادات عامة"
+
+#: includes/admin/admin-index.php:174
+msgid "Blank Image"
+msgstr "صورة فارغة"
+
+#: includes/admin/admin-index.php:177
+msgid "Select an Image"
+msgstr "اختيار صورة"
+
+#: includes/admin/admin-index.php:178 includes/admin/admin-metabox.php:74
+#: templates/form/lava-add-item-file.php:5
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/admin/admin-index.php:181
+msgid "Preview"
+msgstr "مراجعة"
+
+#: includes/admin/admin-index.php:197 includes/functions-core.php:191
+msgid "Save"
+msgstr "حفظ"
+
+#: includes/admin/admin-metabox.php:4
+msgid "Featured Item"
+msgstr "عنصر مميز"
+
+#: includes/admin/admin-metabox.php:28
+msgid "Address on map"
+msgstr "العنوان على الخريطة"
+
+#: includes/admin/admin-metabox.php:30 templates/form/lava-add-item-location.php:7
+msgid "Find"
+msgstr "بحث"
+
+#: includes/admin/admin-metabox.php:39 templates/content.php:86
+#: templates/form/lava-add-item-location.php:34
+msgid "StreetView"
+msgstr "صورة ثلاثية الابعاد"
+
+#: includes/admin/admin-metabox.php:44
+msgid "Use StreetView"
+msgstr "استخدام صورة ثلاثية الابعاد"
+
+#: includes/admin/admin-metabox.php:59
+msgid "Description Images"
+msgstr "صور وصفية"
+
+#: includes/admin/admin-metabox.php:62
+msgid "Add Images"
+msgstr "اضافة صور"
+
+#: includes/class-admin.php:48
+msgid "Property Additional Meta"
+msgstr "ميتا اضافية للعقار"
+
+#: includes/class-admin.php:57
+msgid "Map settings"
+msgstr "اعدادات الخريطة"
+
+#: includes/class-admin.php:104 includes/class-shortcodes.php:162
+#: includes/class-submit.php:227
+msgid "You are not the author."
+msgstr "انت لست الناشر"
+
+#: includes/class-admin.php:424
+msgid "Settings"
+msgstr "الاعدادات"
+
+#: includes/class-admin.php:706
+msgid "Successfully Generated!"
+msgstr "تم الانشاء بنجاح!"
+
+#: includes/class-core.php:43
+#, php-format
+msgid "%s is invalid taxonomy name."
+msgstr "%s اسم تصنيف غير صحيح."
+
+#: includes/class-core.php:109 templates/content.php:55
+msgid "Bedrooms"
+msgstr "الغرف"
+
+#: includes/class-core.php:115 templates/content.php:56
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: includes/class-core.php:121 templates/content.php:57
+msgid "Garages"
+msgstr "الكاراجات"
+
+#: includes/class-core.php:127 templates/content.php:64
+#: templates/template-listing-list.php:31
+msgid "Price"
+msgstr "السعر"
+
+#: includes/class-core.php:133
+msgid "Currency"
+msgstr "العملة"
+
+#: includes/class-core.php:139 templates/content.php:69
+msgid "Area"
+msgstr "المساحة"
+
+#: includes/class-core.php:145
+msgid "Unit"
+msgstr "وحدة قياس المساحة"
+
+#: includes/class-core.php:151
+msgid "Contact Mobile"
+msgstr "رقم الهاتف"
+
+#: includes/class-core.php:167 includes/class-core.php:169 templates/content.php:75
+#: templates/template-map.php:40 templates/template-map.php:42
+msgid "Amenities"
+msgstr "الكماليات"
+
+#: includes/class-core.php:180 includes/class-core.php:182
+msgid "Types"
+msgstr "الانواع"
+
+#: includes/class-core.php:193 includes/class-core.php:195 templates/content.php:22
+#: templates/template-map.php:33
+msgid "City"
+msgstr "المدينة"
+
+#: includes/class-core.php:206 includes/class-core.php:208 templates/content.php:29
+#: templates/template-dashboard.php:40 templates/template-map.php:22
+#: templates/template-map.php:24
+msgid "Status"
+msgstr "نوع العرض"
+
+#: includes/class-core.php:241 includes/class-core.php:243
+#: includes/class-core.php:245
+msgid "Properties"
+msgstr "العقارات"
+
+#: includes/class-core.php:244 includes/class-core.php:246
+#: includes/widgets/widget-featureds.php:114
+#: includes/widgets/widget-recents.php:118
+msgid "Property"
+msgstr "العقار"
+
+#: includes/class-core.php:247
+msgid "Add New"
+msgstr "اضافة جديد"
+
+#: includes/class-core.php:248
+msgid "Add New Property"
+msgstr "اضافة عقار جديد"
+
+#: includes/class-core.php:249
+msgid "New Property"
+msgstr "عقار جديد"
+
+#: includes/class-core.php:250
+msgid "Edit Property"
+msgstr "تحرير العقار"
+
+#: includes/class-core.php:251
+msgid "View Property"
+msgstr "مشاهدة العقار"
+
+#: includes/class-core.php:252
+msgid "All Properties"
+msgstr "جميع العقارات"
+
+#: includes/class-core.php:253
+msgid "Search Properties"
+msgstr "البحث في العقارات"
+
+#: includes/class-core.php:254
+msgid "Parent Properties:"
+msgstr "لم يتم ايجاد عقارات"
+
+#: includes/class-core.php:255
+msgid "Not found Properties."
+msgstr "لم يتم ايجاد عقارات."
+
+#: includes/class-core.php:256
+msgid "Not found properties in trash."
+msgstr "لم يتم ايجاد عقارات في سلة المهملات"
+
+#: includes/class-shortcodes.php:147
+msgid "Please login"
+msgstr "رجاء قم بتسجيل الدخول"
+
+#: includes/class-shortcodes.php:158
+msgid "Invaild Post ID."
+msgstr "الرمز المستخدم غير صحيح"
+
+#: includes/class-submit.php:47 templates/template-dashboard.php:61
+msgid "Edit"
+msgstr "تحرير"
+
+#: includes/class-submit.php:110
+msgid "Invaild User Email."
+msgstr "البريد الالكتروني غير صحيح"
+
+#: includes/class-submit.php:203
+msgid "Please try again, failure to submit"
+msgstr "رجاء حاول مرة اخرى. فشل في الاضافة."
+
+#: includes/class-submit.php:225
+msgid "It has been deleted"
+msgstr "تم حذفها"
+
+#: includes/class-template.php:89
+msgid "Lava Map Template"
+msgstr "نموذج خريطة لافا"
+
+#: includes/class-template.php:260
+msgid "There is no location information on this property."
+msgstr "لا يوجد معلومات عن عنوان هذا العقار."
+
+#: includes/class-template.php:261
+msgid ""
+"This location is not supported by google StreetView or the location did not add."
+msgstr "هذا الموقع غير مدعوم من قبل قوقل ثلاثي الابعاد او لم يتم اضافة الموقع."
+
+#: includes/class-template.php:427 templates/template-not-list.php:8
+msgid "Not found results."
+msgstr "لا توجد نتائج."
+
+#: includes/functions-ajaxMap.php:156
+#, php-format
+msgid "%s ago"
+msgstr "%s منذ"
+
+#: includes/functions-core.php:190
+msgid "Submit"
+msgstr "اضافة"
+
+#: includes/functions-core.php:372 includes/functions-core.php:385
+msgid "Not found amenities."
+msgstr "لا توجد كماليات."
+
+#: includes/widgets/html/lava-single-contact-content.php:18
+#: includes/widgets/html/widget-single-contact.php:18
+#, php-format
+msgid "%d properties"
+msgstr "%d عقارات"
+
+#: includes/widgets/widget-featureds.php:9
+msgid "[Lava] Featured Properties Widget"
+msgstr "[لافا] ودجت العقارت المميزة"
+
+#: includes/widgets/widget-featureds.php:10
+msgid "This widget shows a list of featured properties as box style."
+msgstr "هذا الودجت يظهر قائمة بالعقارات المميزة في شكل صندوق."
+
+#: includes/widgets/widget-featureds.php:22
+msgid "Featured"
+msgstr "مميز"
+
+#: includes/widgets/widget-featureds.php:84 includes/widgets/widget-recents.php:85
+msgid "Not Found Posts."
+msgstr "لم يتم ايجاد مقالات."
+
+#: includes/widgets/widget-featureds.php:106
+#: includes/widgets/widget-recents.php:109 templates/template-addItem.php:25
+#: templates/template-dashboard.php:38
+msgid "Title"
+msgstr "العنوان"
+
+#: includes/widgets/widget-featureds.php:110
+#: includes/widgets/widget-recents.php:114
+msgid "Post type"
+msgstr "نوع المقالة"
+
+#: includes/widgets/widget-featureds.php:115
+#: includes/widgets/widget-recents.php:119
+msgid "Post"
+msgstr "مقالة"
+
+#: includes/widgets/widget-featureds.php:120
+#: includes/widgets/widget-recents.php:125
+msgid "count"
+msgstr "حساب"
+
+#: includes/widgets/widget-recents.php:9
+msgid "[Lava] Realestate Recents Widget"
+msgstr "[لافا] ودجت العقارات الاخيرة"
+
+#: includes/widgets/widget-recents.php:10
+msgid "This widget shows the list of the property which is uploaded recently"
+msgstr "هذا الودجت يظهر قائمة بالعقارات المضافة مؤخرا"
+
+#: includes/widgets/widget-recents.php:23
+msgid "Recent Posts"
+msgstr "المقالات الاخيرة"
+
+#: includes/widgets/widget-single-contact.php:9
+msgid "[Lava] Author information"
+msgstr "[لافا] معلومات الناشر"
+
+#: includes/widgets/widget-single-contact.php:10
+msgid ""
+"This is for only single detail pages. This widget shows the requested information "
+"about the author of the property."
+msgstr "لتفاصيل الصفحات المفردة فقط. هذا الودجت يعرض المعلومات المطلوبة حول الناشر."
+
+#: includes/widgets/widget-single-contact.php:26
+msgid "Invalid post ID."
+msgstr "رمز المقالة غير صحيح"
+
+#: includes/widgets/widget-single-contact.php:65
+msgid "Form Type"
+msgstr "نوع النموذج"
+
+#: includes/widgets/widget-single-contact.php:69
+#: includes/widgets/widget-single-contact.php:88
+msgid "None"
+msgstr "لا شيء"
+
+#: includes/widgets/widget-single-contact.php:70
+#: includes/widgets/widget-single-contact.php:89
+msgid "Ninja Form"
+msgstr "نموذج نينجا"
+
+#: includes/widgets/widget-single-contact.php:71
+#: includes/widgets/widget-single-contact.php:90
+msgid "Contact Form"
+msgstr "نموذج الاتصال"
+
+#: includes/widgets/widget-single-contact.php:77
+msgid "Form ID"
+msgstr "رقم النموذج"
+
+#: includes/widgets/widget-single-contact.php:84
+msgid "Report Type"
+msgstr "نوع التقرير"
+
+#: includes/widgets/widget-single-contact.php:96
+msgid "Report ID"
+msgstr "رقم التقرير"
+
+#: templates/content.php:7
+msgid "Summary"
+msgstr "ملخص"
+
+#: templates/content.php:17 templates/template-map.php:15
+#: templates/template-map.php:17
+msgid "Type"
+msgstr "النوع"
+
+#: templates/content.php:51
+msgid "Condition"
+msgstr "الحالة"
+
+#: templates/content.php:79 templates/template-addItem.php:30
+msgid "Description"
+msgstr "الوصف"
+
+#: templates/content.php:83 templates/template-listing.php:10
+msgid "Location"
+msgstr "المكان"
+
+#: templates/form/lava-add-item-file.php:10
+msgid "Featured Image"
+msgstr "الصورة المميزة"
+
+#: templates/form/lava-add-item-file.php:17
+msgid "Detail Image"
+msgstr "صورة اضافية"
+
+#: templates/form/lava-add-item-location.php:1
+msgid "Map"
+msgstr "الخريطة"
+
+#: templates/form/lava-add-item-location.php:4
+msgid "Address Search"
+msgstr "البحث عن العنوان"
+
+#: templates/form/lava-add-item-location.php:6
+msgid "Address"
+msgstr "العنوان"
+
+#: templates/form/lava-add-item-location.php:17
+#: templates/form/lava-add-item-location.php:37
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: templates/form/lava-add-item-location.php:22
+#: templates/form/lava-add-item-location.php:42
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: templates/form/lava-add-item-location.php:27
+msgid "Used StreetView"
+msgstr "صورة ثلاثية الابعاد المستخدمة"
+
+#: templates/form/lava-add-item-location.php:47
+msgid "Heading"
+msgstr "ترويسة"
+
+#: templates/form/lava-add-item-location.php:52
+msgid "Pitch"
+msgstr "اعلان"
+
+#: templates/form/lava-add-item-location.php:57
+msgid "Zoom"
+msgstr "تقريب"
+
+#: templates/form/lava-add-item-user.php:3
+msgid "Login"
+msgstr "تسجيل دخول"
+
+#: templates/form/lava-add-item-user.php:4
+msgid "If you have an account?"
+msgstr "اذا كان لديك حساب؟"
+
+#: templates/form/lava-add-item-user.php:5
+msgid "Please Login"
+msgstr "رجاء قم بتسجيل الدخول"
+
+#: templates/form/lava-add-item-user.php:9
+msgid "User Email"
+msgstr "البريد الالكتروني للمستخدم"
+
+#: templates/form/lava-add-item-user.php:10
+msgid "Email Address"
+msgstr "البريد الالكتروني"
+
+#: templates/template-addItem.php:31
+msgid "Write a description"
+msgstr "اكتب وصف"
+
+#: templates/template-addItem.php:49
+msgid "Saved"
+msgstr "تم الحفظ"
+
+#: templates/template-dashboard.php:33
+msgid "My Realestate"
+msgstr "عقاراتي"
+
+#: templates/template-dashboard.php:39
+msgid "Posted date"
+msgstr "تاريخ الادراج"
+
+#: templates/template-dashboard.php:64
+msgid "Remove"
+msgstr "حذف"
+
+#: templates/template-dashboard.php:101
+msgid "Do you want to delete this item?"
+msgstr "هل ترغب بحذف هذا العنصر؟"
+
+#: templates/template-listing-list.php:24
+msgid "Bed"
+msgstr "غرفة"
+
+#: templates/template-listing-list.php:25
+msgid "Bath"
+msgstr "حمام"
+
+#: templates/template-listing-list.php:26
+msgid "Garage"
+msgstr "كاراج"
+
+#: templates/template-listing.php:5
+msgid "Keywords"
+msgstr "كلمات دليلية"
+
+#: templates/template-listing.php:13
+msgid "Any Location"
+msgstr "اي مكان"
+
+#: templates/template-listing.php:22
+msgid "Any Category"
+msgstr "اي تصنيف"
+
+#: templates/template-listing.php:46
+msgid "Search"
+msgstr "بحث"
+
+#: templates/template-map.php:35
+msgid "Location (city)"
+msgstr "المكان (المدينة)"
+
+#: templates/template-map.php:49 templates/template-map.php:50
+msgid "Keyword"
+msgstr "كلمة دليلية"
+
+#: templates/template-map.php:52
+msgid "Search Now"
+msgstr "البحث الآن"
+
+#: templates/template-map.php:59
+msgid "Listings"
+msgstr "العروض"
+
+#: templates/template-map.php:60
+msgid "Loading"
+msgstr "تحميل"
